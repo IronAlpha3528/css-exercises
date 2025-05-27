@@ -1,0 +1,15 @@
+.Odd-Line{
+    background-color: rgb(255,100,150);
+    font-family: Verdana, "DejaVu Sans" , sans-serif;
+}
+#Second-Line{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+.Third-Line{
+    font-size: 24px;
+}
+#Fourth-Line{
+    background-color: rgb(100,255,100);
+    font-weight: bold;
+}
